@@ -13,6 +13,3 @@ APP DRAWER-
 ABOUT PAGE-
 
 ![3](https://github.com/PapaBiju/Http_second/assets/112795188/c9a25e10-f287-4488-9e5c-1d29ededa580)
-
-
-![image](https://github.com/PapaBiju/Http_second/assets/112795188/7941c0e2-cef1-4c62-974f-6a9f9f7e82da)
